@@ -16,11 +16,6 @@
 </p>
 
 
-### Support
-
-<p><a href="https://ko-fi.com/davidotek"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="davidotek" /></a></p><br><br>
-
-
 ### Repository Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidotek&show_icons=true&locale=en&layout=compact" alt="davidotek" /></p>
